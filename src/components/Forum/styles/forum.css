@@ -1,0 +1,42 @@
+.forum {
+    padding: 20px;
+}
+
+.forum-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Forum Header */
+.forum-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.forum-header button {
+    background-color: #e74c3c;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.forum-header button:hover {
+    background-color: #c0392b;
+    transform: translateY(-2px);
+}
+
+.forum-header button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.5);
+}
+
+.forum-header h1{
+    color: white;
+}

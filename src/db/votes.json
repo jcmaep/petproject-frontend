@@ -1,0 +1,18 @@
+[
+    {
+      "postId": 1,
+      "userId": 1,
+      "vote": "upvote"
+    },
+    {
+      "postId": 1,
+      "userId": 2,
+      "vote": "downvote"
+    },
+    {
+      "postId": 2,
+      "userId": 1,
+      "vote": "upvote"
+    }
+  ]
+  

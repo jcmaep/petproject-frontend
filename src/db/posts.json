@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "First Post",
+      "content": "This is the content of the first post.",
+      "category": "General",
+      "commentCount": 2,
+      "timestamp": 1695408000000,
+      "upvoteCount": 5,
+      "downvoteCount": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Another Post",
+      "content": "Content of another post",
+      "category": "Category 1",
+      "commentCount": 0,
+      "timestamp": 1695508000000,
+      "upvoteCount": 3,
+      "downvoteCount": 0
+    }
+  ]
+  

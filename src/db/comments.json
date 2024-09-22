@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "postId": 1,
+      "userId": 2,
+      "content": "This is a comment on the first post.",
+      "timestamp": 1695508600000
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "userId": 1,
+      "content": "Another comment on the same post.",
+      "timestamp": 1695508800000
+    }
+  ]
+  
